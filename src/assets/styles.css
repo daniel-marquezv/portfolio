@@ -1,0 +1,9 @@
+.background {
+    background-image: url("fondo.png");
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.text {
+    color: white;
+}
